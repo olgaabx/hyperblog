@@ -1,5 +1,4 @@
-body
-{
+body {
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -8,8 +7,7 @@ body
     padding: 0;
 }
 
-#cabecera
-{
+#cabecera {
     background: #33A;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
@@ -18,15 +16,13 @@ body
     padding: 0.5em;
 }
 
-#cabecera #tagline
-{
+#cabecera #tagline {
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
 
-#container
-{
+#container {
     width: 70%;
     padding: 0;
     text-align: left;
@@ -34,12 +30,17 @@ body
     margin: 0 auto;
 }
 
-#container h1
-{
+#container h1 {
     font-size: 20px;
 }
 
-#post
-{
+#post {
     padding: 1em;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
